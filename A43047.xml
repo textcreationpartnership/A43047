@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plus ultra, or, The second part of the character of a Quaker with reflections on a pittiful sheet, pretended to be an answer to the former.</title>
+            <title>Character of a Quaker in his true and proper colours. Part 2</title>
+            <author>R. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43047</idno>
+            <idno type="STC">Wing H110</idno>
+            <idno type="STC">ESTC R14573</idno>
+            <idno type="EEBO-CITATION">12157870</idno>
+            <idno type="OCLC">ocm 12157870</idno>
+            <idno type="VID">55194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 599:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plus ultra, or, The second part of the character of a Quaker with reflections on a pittiful sheet, pretended to be an answer to the former.</title>
+                  <title>Character of a Quaker in his true and proper colours. Part 2</title>
+                  <author>R. H.</author>
+               </titleStmt>
+               <extent>[2], 12, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by the booksellers of London, or else where,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The character of a Quaker is signed "R.H." but is attributed by Wing to Samuel Austin; the present work is not signed and is attributed by Wing (&amp; others) to "R.H." although the two works are evidently by the same hand.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rudyard, Thomas, d. 1692. --  Libeller characteriz'd by his own hand.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55194:1" rendition="simple:additions"/>
+            <p>PLUS ULTRA OR THE SECOND PART Of the Character of a QUAKER WITH Reflections on a Pittiful Sheet, Pre<g ref="char:EOLhyphen"/>tended to be an Anſwer to the Former.</p>
+            <q xml:lang="lat">
+               <l>—DA Iuſtum Sanctumque videri</l>
+               <l>Noctem Peccatis &amp; Fraudibus objice nubem;</l>
+            </q>
+            <q>
+               <l>If that my Deeds of Darkneſs may</l>
+               <l>Be wrapt in Clouds as black as they?</l>
+               <l>If being ugly I may paint</l>
+               <l>Oh! then I am a true new Saint;</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by the Book<g ref="char:EOLhyphen"/>ſellers of <hi>London,</hi> or elſe where. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55194:2"/>
+            <pb n="1" facs="tcp:55194:2"/>
+            <head>PLUS ULTRA OR The Second part of the Character of a QUAKER.</head>
+            <p>A QUAKER is an <hi>Everlaſting Ar<g ref="char:EOLhyphen"/>gument;</hi> For like <hi>Afrique</hi> he is daily Teeming with ſome <hi>new Monſter:</hi> He that can deſcribe him <hi>fully</hi> may boaſt he hath <hi>ſquared the Circle.</hi> To term him <hi>Gomorrah-Apple, Painted Tomb,</hi> or <hi>varniſht Rottenneſs</hi> doth not reach him; He is ra<g ref="char:EOLhyphen"/>ther an <hi>Apothecahries guilt Box,</hi> inſcribed with the glorious Title of ſome <hi>Elixar,</hi> but filled with <hi>Arſenicke</hi> or worſer <hi>Venom;</hi> A dull lump wherein <hi>Lucifer</hi> hath plaid <hi>Prometheus</hi>'s part; For of him the <hi>Apoſtle</hi> is a <hi>Prophet, His tongue is ſet on fire of Hell;</hi> The <hi>Materia Prima</hi> of this <hi>Religious Cro<g ref="char:EOLhyphen"/>codile</hi> is a certain <hi>Natural Melancholly</hi> or
+<pb n="2" facs="tcp:55194:3"/>
+               <hi>ſullen diſcontent;</hi> And his <hi>animating forme, Pride and ſingularity blended:</hi> His looks and habit cry; <hi>Pray obſerve me,</hi> and his whole deportment is <hi>ſtarched</hi> and <hi>affected,</hi> you may take his <hi>Face,</hi> for a new fashioned <hi>Sun-Dyal</hi> where the <hi>forced wrinkles</hi> repre<g ref="char:EOLhyphen"/>ſent <hi>Hower-Lines,</hi> and his <hi>Tunable Noſe</hi> the <hi>Gnomon:</hi> He is oft-times as <hi>lean</hi> as Famine, yet not out of <hi>abſtinence</hi> but <hi>En<g ref="char:EOLhyphen"/>vy,</hi> and his <hi>paleneſs</hi> is rather the Paint of his <hi>Hypocriſie,</hi> than any effect of <hi>Morti<g ref="char:EOLhyphen"/>fication:</hi> He is commonly in his <hi>Youth</hi> a profeſt Practitioner in all kind of <hi>Luxu<g ref="char:EOLhyphen"/>ry:</hi> And as ſoon as <hi>ſhame</hi> or the ſmarting products of his <hi>debaucheries</hi> awaken him, to think of <hi>amendment;</hi> the Devil hurries him into the <hi>contrary extream,</hi> teaching him to ſcruple the moſt <hi>innocent things,</hi> that he may with the better Gloſs per<g ref="char:EOLhyphen"/>petrate thoſe that are <hi>abominable.</hi> Hence<g ref="char:EOLhyphen"/>forwards he shuts the Devil out at the Gate, and lets him in at the back door,
+<pb n="3" facs="tcp:55194:3"/>becomes at once <hi>Bigot</hi> and <hi>Impious,</hi> and weaves with the <hi>thred</hi> of his life a <hi>mixed stuffe</hi> of <hi>Superſtition</hi> and <hi>Atheiſme.</hi> To ask, <hi>what it is a Clock</hi> he counts the Language of <hi>Aſhdod,</hi> and you were as good ſpeak <hi>Arabick</hi> as ſay <hi>Here's to you Sir,</hi> his <hi>Religion</hi> is nothing but <hi>Phraſes,</hi> being a ſuperſti<g ref="char:EOLhyphen"/>tious obſerver of <hi>new Minted Modes</hi> of ſpeaking, whereby he commits an <hi>ab<g ref="char:EOLhyphen"/>ſurdity,</hi> yet tells a <hi>Truth</hi> when he calls the moſt wicked and flagitious <hi>friends,</hi> when he lyes with his <hi>Neighbours wife,</hi> 'tis not out of <hi>Lust,</hi> but only to raiſe up a <hi>faith<g ref="char:EOLhyphen"/>ful ſeed.</hi> And if he wants <hi>Money,</hi> he need only ſay to one of his Gang, <hi>The Lord hath ſent me to borrow of thee forty Shillings:</hi> He ſometimes ſtudies the <hi>Law</hi> that he may <hi>violate</hi> it with the fairer pretences: And reads the <hi>Bible</hi> only to furnish him<g ref="char:EOLhyphen"/>ſelf with <hi>Scripture-names</hi> to call thoſe he intends to quarrel with, <hi>Reprobate Child of Perdition, Son of Belial</hi> &amp;c. If he have
+<pb n="4" facs="tcp:55194:4"/>any <hi>ſmattering in learning; Fidlers,</hi> Perri<g ref="char:EOLhyphen"/>wigmakers or Tirewomen love him, not <hi>worſe</hi> than his quondam <hi>Schoolmaſter;</hi> who indeed with reaſon calls him <hi>un<g ref="char:EOLhyphen"/>grateful:</hi> Since he Scornes to own whence he ſuckt that little ſtock of <hi>Pedantry.</hi> For he impudently braggs Heaven ſent it him, to rights for a token; He there<g ref="char:EOLhyphen"/>fore damns <hi>Humane learning</hi> in general, and cryes it <hi>puffeth up;</hi> yet devoutly ad<g ref="char:EOLhyphen"/>mires thoſe <hi>humble ones</hi> of his own caſt; who lately to oſtentate the Prodigioſi<g ref="char:EOLhyphen"/>ty of their Parts, obliged the World with a <hi>Battle-Door</hi> in <hi>two and twenty langua<g ref="char:EOLhyphen"/>ges</hi> on no more ſerious occaſion than to teach us to <hi>Thou</hi> people <hi>learnedly:</hi> He reverenceth the Memory of <hi>Fox</hi> and <hi>Nailor,</hi> but mentions <hi>Peter</hi> and <hi>Paul</hi> as familiarly as if they were his <hi>fellows,</hi> he cannot allow them the Title of <hi>Saints,</hi> yet boaſts himſelf enthroned in a ſtate of <hi>perfection:</hi> If he ever <hi>faſts</hi> 'tis on ſome
+<pb n="5" facs="tcp:55194:4"/>
+               <hi>Feſtival,</hi> and Reſents no <hi>Idolatry</hi> ſo Hei<g ref="char:EOLhyphen"/>nous as not <hi>opening Shop</hi> on <hi>Chriſtmas</hi> day; He defyes its <hi>ſuperſtitious Plumbroth,</hi> and will rather <hi>ſurfeit</hi> on Mince Pyes any other time then <hi>touch</hi> one then; when he has a mind to be <hi>croſs,</hi> he cryes he is not <hi>free,</hi> and with a ſolemne <hi>verily</hi> puts off: unſuſpected the <hi>verieſt Lyes</hi> imagi<g ref="char:EOLhyphen"/>nable: There is certainly ſome want of <hi>Symmetry</hi> in his Head which makes him hate all <hi>Harmony:</hi> Yet at their <hi>Con<g ref="char:EOLhyphen"/>venticles</hi> you may fancy a kind of <hi>Muſick:</hi> For the Men and Women <hi>ſighing and groaning in conſort</hi> make an odd noiſe like the <hi>great</hi> and <hi>ſmall Pipes</hi> of an <hi>Organ;</hi> he cannot performe a <hi>Religious Exerciſe</hi> without a fit of <hi>Railing</hi> as well as Quak<g ref="char:EOLhyphen"/>ing: He is moſt Sagacious at <hi>Damning Folks,</hi> and delights in <hi>curſing</hi> as much as good men do in <hi>bleſsing,</hi> his very <hi>Preaching</hi> is a <hi>Satyre,</hi> and the moſt <hi>zealous</hi> of his talk a malicious <hi>Invective</hi> againſt
+<pb n="6" facs="tcp:55194:5"/>all that are not as mad as himſelf. Yet ſtill you muſt believe him <hi>meek and lowly;</hi> For when he hath outdone <hi>Bil<g ref="char:EOLhyphen"/>linſgate</hi> for Scurrility and opprobrious Termes, he tells you it is only <hi>his earneſt contending for the truth;</hi> His <hi>Doctrine</hi> is a <hi>Goſpel</hi> of about <hi>thirty</hi> Years ſtanding, and he is a <hi>Chriſtian</hi> without <hi>Baptiſme</hi> or Ordinance, <hi>Creed</hi> or <hi>Catechiſme</hi> in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> he is called a <hi>Paracelſian,</hi> and ſome <hi>wantons</hi> of the <hi>Family of love</hi> firſt dropt the Brat in our Streets; Indeed he is a <hi>Religious Proteus</hi> ſo ſlipperie no Defini<g ref="char:EOLhyphen"/>tion can hold him, for by keeping the main body of his <hi>Opinions</hi> in <hi>Hugger Mugger,</hi> and diſplaying or concealing them, as he ſpyes advantages he re<g ref="char:EOLhyphen"/>ſerves alwayes a Hole for <hi>retreat:</hi> So that if you inſiſt on any <hi>Blaſphemous Te<g ref="char:EOLhyphen"/>net,</hi> or <hi>extravagant Prank,</hi> he ſtops your Mouth with <hi>Alas! Friends never owned it;</hi> Thus whereas the <hi>Ancient Apoſtles</hi> did
+<pb n="7" facs="tcp:55194:5"/>preach up <hi>Faith, Hope, Love, Righteouſ<g ref="char:EOLhyphen"/>neſs, Peace</hi> and <hi>Joy</hi> in the Holy Ghoſt: Theſe <hi>new Seers</hi> ramble about to eſta<g ref="char:EOLhyphen"/>blish certain <hi>little Fopperies,</hi> as if the Sal<g ref="char:EOLhyphen"/>vation of the World depended on the preaching down <hi>Points, Cuffs, Tyth pigs</hi> and <hi>Pulpit-Hower-Glaſſes:</hi> He is a kind of <hi>Spiritual Gipſy</hi> that deſcribes <hi>Grace</hi> and <hi>Piety</hi> by the Lines of the <hi>Phyſiognomy,</hi> and confines <hi>Chriſtianity</hi> to ſuch a <hi>Comple<g ref="char:EOLhyphen"/>xion</hi> or <hi>Habit,</hi> being confident, that cannot be a <hi>Wedding Garment</hi> that hath any <hi>trimming:</hi> Thus <hi>Ambition</hi> makes him affect a <hi>ridiculous Humility.</hi> And he is <hi>proud</hi> by Antiperiſtaſis—</p>
+            <q>
+               <l>—So Beggars boaſt their rags, and may deride</l>
+               <l>The Pomp of Kings, but with a greater Pride</l>
+               <l>Meekneſs conſiſts not in the cloaths but Heart</l>
+               <l>Nature may be vain glorious, well as Art:</l>
+               <l>We may as lowly, before <hi>GOD</hi> appear</l>
+               <l>Dreſt with an Orient Pearl, as with a tear</l>
+               <l>
+                  <pb n="8" facs="tcp:55194:6"/>
+In his high preſence, where the Stars and Sun</l>
+               <l>Do but Eclipſe, there's no Ambition:</l>
+               <l>Glory can never render GOD the leſs,</l>
+               <l>Neither can Beauty defile holineſs:</l>
+               <l>What's more magnificent than Heav'n, yet where</l>
+               <l>Is there more love and Piety than there?</l>
+            </q>
+            <p>But <hi>ſtay</hi>—We muſt proceed with <hi>Cau<g ref="char:EOLhyphen"/>tion</hi> though a <hi>Quaker</hi> defyes the <hi>Battoon</hi> and <hi>temporal Sword,</hi> he is a <hi>parlous Gameſter</hi> at the <hi>Gooſe-quill:</hi> Tis no <hi>ſmall attempt</hi> to encounter a <hi>Party</hi> whoſe <hi>impious Penn</hi> hath preſumed to <hi>Duel</hi> the <hi>Sacred Trinity;</hi> Behold! the <hi>old muddy Stile</hi> is laid by, and an <hi>Anſwer</hi> comes <hi>reaking</hi> with Fumes of <hi>Babyloniſh Rhetorick: The Libeller Characteri<g ref="char:EOLhyphen"/>zed; Monſtrum Horrendum!</hi> would it not prove a <hi>Second poyſon</hi> to <hi>Overbury,</hi> and ſtartle <hi>Cleavelands</hi> Ghoſt to ſee <hi>Yea and Nay,</hi> write Characters? It ſeems our <hi>Pettifogging Friend</hi> T. R. ſtands alwayes preſt to <hi>rail</hi> in the behalf of his Faction,
+<pb n="9" facs="tcp:55194:6"/>and ready for a Fee to <hi>Stigmatize</hi> all that would expoſe them: A moſt fit <hi>Advo<g ref="char:EOLhyphen"/>cate</hi> for ſuch a <hi>Cauſe,</hi> who cannot con<g ref="char:EOLhyphen"/>ceal himſelf if he would, for at Firſt view his <hi>Ears</hi> shoot out of his Skin, and preſent him perfect <hi>Aſſe,</hi> his Pam<g ref="char:EOLhyphen"/>phlet is fronted with a <hi>Bull-rampant,</hi> and he poſts <hi>himſelf</hi> for a Libeller in the <hi>Ti<g ref="char:EOLhyphen"/>tle-page,</hi> whilſt he calls it, <hi>the Libeller Cha<g ref="char:EOLhyphen"/>racterized by his own hand.</hi> Truſt me, I can<g ref="char:EOLhyphen"/>not but pitty the Fools <hi>Diſeaſe,</hi> he hath got a <hi>Flux</hi> of Gall, or a certain <hi>Splene<g ref="char:EOLhyphen"/>tick Looſeneſs,</hi> which turns his <hi>Excrements</hi> the wrong way and his Mouth <hi>Stools:</hi> Do but obſerve I pray! How the <hi>Gall'd Fade</hi> winces, I find there is no giving him a <hi>Drench</hi> for the <hi>Staggers</hi> without <hi>Barnacles,</hi> you may know by the Beaſts <hi>tearing</hi> and <hi>foaming,</hi> our Arrows ſtick in his <hi>Sides,</hi> our former Draught hath toucht him to the <hi>quick,</hi> and now like a Woman grown old and ugly, he
+<pb n="10" facs="tcp:55194:7"/>throws Stones at the <hi>Glaſs</hi> that shews him his own <hi>Deformity,</hi> he would make us believe; that 'tis <hi>Chriſtian</hi> to cheat ones <hi>Neighbour,</hi> provided it be done in <hi>Scripture Language,</hi> and confeſs his own <hi>Sobriety</hi> is but an <hi>Appearance,</hi> whilſt he Cloaks with a <hi>Modeſt Dreſs</hi> Impieties that a <hi>vertuous Pagan</hi> would blush at: He makes <hi>Conſcience</hi> the <hi>Stalking-Nag</hi> o<g ref="char:EOLhyphen"/>ver which he hopes ſecurely to <hi>give Fire</hi> at any <hi>Game,</hi> and being a worthleſs <hi>terrae-filius</hi> himſelf, envies others thoſe <hi>civil honours</hi> due to their <hi>Quality</hi> and <hi>merits.</hi> His talk of the <hi>Reſurrection</hi> and <hi>Souls im<g ref="char:EOLhyphen"/>mortality</hi> is to be conſtrued according to ſome <hi>mental Reſervation,</hi> or elſe he ſpeaks contrary to his <hi>Principles,</hi> and his good word for the <hi>Innocent Proteſtants</hi> is only a <hi>Copy of his countenance.</hi>
+            </p>
+            <p>When he mentions <hi>Chriſt</hi> he does it <hi>Allegorically,</hi> and with an <hi>Equivocation,</hi> and to <hi>Preach the Light</hi> (in his ſenſe) muſt
+<pb n="11" facs="tcp:55194:7"/>needs be <hi>inſignificant Babble,</hi> ſince he af<g ref="char:EOLhyphen"/>firms <hi>all</hi> men have <hi>Light ſufficient</hi> already within them: He counts his <hi>impudent Huffing</hi> Court of Judicature to be only a demand of <hi>civil Liberty,</hi> and ſawcily calls <hi>Acts of Parliament</hi> the <hi>decrees</hi> and <hi>Sic<g ref="char:EOLhyphen"/>Volo's</hi> of a <hi>private Cabal,</hi> he <hi>wipes his Mouth</hi> to create an Opinion of his <hi>chaſtity,</hi> yet (like a <hi>Young Wench</hi> when she hears a <hi>wanton Jeſt</hi>) lets us know by his <hi>Simpering</hi> that he underſtands <hi>Tokens of Letchery,</hi> But what need he keep <hi>Concubines</hi> at Home, when every <hi>Conventicle</hi> ſerves for a <hi>Seraglio:</hi> He counts all them Haters of <hi>Gods worſhip</hi> that condemn his <hi>Diſobe<g ref="char:EOLhyphen"/>dient Froliques</hi> at <hi>Devonſhire</hi> Houſe, and having made it his <hi>buſineſs</hi> to <hi>divide</hi> and <hi>diſtract,</hi> wonders any should turn <hi>Incen<g ref="char:EOLhyphen"/>diaries,</hi> he preferrs a <hi>corner conveniently,</hi> or the baſe <hi>Multiplicamini</hi> of a <hi>Midnight meeting</hi> before the Churches <hi>grave manner</hi> of Solemnizing <hi>Marriage,</hi> and thinks
+<pb n="12" facs="tcp:55194:8"/>the <hi>Prieſts Fee</hi> may be better beſtow'd on a <hi>provocative Poſſet</hi> for carrying on the <hi>work of Generation:</hi> The <hi>patience, meekneſs</hi> and <hi>ſelf-denyal</hi> of the <hi>Quaking Spirit</hi> is ſuffi<g ref="char:EOLhyphen"/>ciently apparent in this <hi>Hair-brain'd</hi> Scribler, whoſe <hi>work</hi> is indeed a <hi>true Cha<g ref="char:EOLhyphen"/>racter</hi> of his Party, whilſt <hi>mad with rage</hi> he Belches out, he cares not <hi>what,</hi> againſt he knows not <hi>whom;</hi> But we shall take no further notice of this <hi>Puiſne Libeller</hi> then to laugh at his <hi>folly,</hi> and will leave our <hi>ſhivering Hypocrite</hi> to his End; which (if he ſcape turning <hi>open Ranter</hi>) is with<g ref="char:EOLhyphen"/>out repentance to go to <hi>IIell</hi> in a <hi>Saints Livery,</hi> and <hi>Steal</hi> his own Damnation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:55194:8"/>
+            <head>A Poſtſcript to the Reader.</head>
+            <l>AS Gameſters that once luckily have thrown</l>
+            <l>Proceed and fondly think Fortune their own,</l>
+            <l>Till the perfidious Dice their hopes betray</l>
+            <l>And force them to go Moneyleſs away:</l>
+            <l>So the Author having ſwept the Stakes of late</l>
+            <l>Is tempted once again to ſet to's Fate,</l>
+            <l>The Firſt Part did your kind Acceptance meet</l>
+            <l>'Tis hop'd you ſo too will this Second greet;</l>
+            <l>But if you prove more ſullen now than then,</l>
+            <l>May you ne'er be in good humour agen,</l>
+            <l>But turn Quakers, and ſo at Bedlam bave</l>
+            <l>An Aſses Burial, an unpittied Grave.</l>
+         </div>
+      </body>
+   </text>
+</TEI>
